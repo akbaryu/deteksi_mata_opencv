@@ -1,0 +1,32 @@
+D:\Raspberry Pi Project\amarjeet\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.MainForm.resources
+D:\Raspberry Pi Project\amarjeet\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.Properties.Resources.resources
+D:\Raspberry Pi Project\amarjeet\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.csproj.GenerateResource.Cache
+D:\Raspberry Pi Project\amarjeet\OpenCVWinForm\OpenCVWinForm\bin\Debug\KC_DeteksiMata.exe.config
+D:\Raspberry Pi Project\amarjeet\OpenCVWinForm\OpenCVWinForm\bin\Debug\KC_DeteksiMata.exe
+D:\Raspberry Pi Project\amarjeet\OpenCVWinForm\OpenCVWinForm\bin\Debug\KC_DeteksiMata.pdb
+D:\Raspberry Pi Project\amarjeet\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.exe
+D:\Raspberry Pi Project\amarjeet\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.pdb
+D:\Raspberry Pi Project\amarjeet\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.csprojResolveAssemblyReference.cache
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\OpenCVWinForm\OpenCVWinForm\bin\Debug\KC_DeteksiMata.exe.config
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.exe
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.pdb
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.csprojResolveAssemblyReference.cache
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.MainForm.resources
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.Properties.Resources.resources
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\OpenCVWinForm\OpenCVWinForm\obj\x86\Debug\KC_DeteksiMata.csproj.GenerateResource.Cache
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\DeteksiMata\DeteksiMata\bin\Debug\KC_DeteksiMata.exe.config
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.exe
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.pdb
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.csprojResolveAssemblyReference.cache
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.MainForm.resources
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.Properties.Resources.resources
+D:\-=Informatika UB=-\Materi Kuliah\Semester 5\Kecerdasan Buatan - Ali Fauzi\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.csproj.GenerateResource.Cache
+D:\KECERDASAN BUATAN\DeteksiMata\DeteksiMata\bin\Debug\KC_DeteksiMata.exe.config
+D:\KECERDASAN BUATAN\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.exe
+D:\KECERDASAN BUATAN\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.pdb
+D:\KECERDASAN BUATAN\DeteksiMata\DeteksiMata\bin\Debug\KC_DeteksiMata.exe
+D:\KECERDASAN BUATAN\DeteksiMata\DeteksiMata\bin\Debug\KC_DeteksiMata.pdb
+D:\KECERDASAN BUATAN\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.csprojResolveAssemblyReference.cache
+D:\KECERDASAN BUATAN\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.MainForm.resources
+D:\KECERDASAN BUATAN\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.Properties.Resources.resources
+D:\KECERDASAN BUATAN\DeteksiMata\DeteksiMata\obj\x86\Debug\KC_DeteksiMata.csproj.GenerateResource.Cache
